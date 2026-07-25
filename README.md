@@ -1,4 +1,6 @@
 <h1 align="center">
+  <img width="800" height="199" alt="banner" src="https://github.com/user-attachments/assets/d07f5953-34c5-4db7-b4d0-a89ed3bc322b" />
+
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=👋+¡Hola!+Soy+Kevin+Vichicela;Ingeniero+en+Software;Full+Stack+Developer+%7C+IA+%26+ML+Entusiasta;Construyendo+el+futuro+digital" alt="Typing SVG" />
 </h1>
 
