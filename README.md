@@ -152,7 +152,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kevin-daniel-vichicela-casa-6932ab331/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vichicelakevin@gmail.com)
-[![Portafolio](https://img.shields.io/badge/Portafolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://tudominio.com)
+[![Portafolio](https://img.shields.io/badge/Portafolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://portafolio-vichicela.vercel.app)
 
 </div>
 
