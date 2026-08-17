@@ -13,15 +13,15 @@
 
 ## 💫 Sobre mí
 
-🎓 **Ingeniero en Software** apasionado por crear soluciones tecnológicas que transformen ideas en realidades digitales. Mi enfoque combina el **desarrollo full stack** con la **inteligencia artificial**, buscando siempre la excelencia en cada proyecto.
+**Ingeniero en Software** apasionado por crear soluciones tecnológicas que transformen ideas en realidades digitales. Mi enfoque combina el **desarrollo full stack** con la **inteligencia artificial**, buscando siempre la excelencia en cada proyecto.
 
-🚀 **Mi filosofía:** Código limpio, diseño intuitivo y tecnología al servicio de las personas.
+**Mi filosofía:** Código limpio, diseño intuitivo y tecnología al servicio de las personas.
 
 ### 🎯 Objetivos 2026
-- 🔭 Dominar el ecosistema **JavaScript/TypeScript** en profundidad
-- 🤖 Profundizar en **Machine Learning** y **Deep Learning** aplicado
-- 🌱 Contribuir a proyectos open source
-- 📱 Desarrollar apps multiplataforma con **React Native** e **Ionic**
+- Dominar el ecosistema **JavaScript/TypeScript** en profundidad
+- Profundizar en **Machine Learning** y **Deep Learning** aplicado
+- Contribuir a proyectos open source
+- Desarrollar apps multiplataforma con **React Native** e **Ionic**
 
 ---
 
