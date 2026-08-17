@@ -139,13 +139,13 @@
 
 ### 🎯 Características Principales
 
-- ✅ **Clasificación en tiempo real** con TensorFlow Lite (MobileNetV2 + cuantización INT8)
-- 🌐 **Inferencia 100% offline** - ideal para zonas rurales sin conectividad
-- 🖼️ **Preprocesamiento consistente** (letterbox con padding RGB 113,123,96)
-- 📊 **Monitoreo de rendimiento** - tiempo de carga, inferencia y uso de RAM
-- 🎨 **Interfaz moderna** con Jetpack Compose y Material Design 3
-- 📸 **Captura de imágenes** con CameraX
-- 💾 **Historial local** con Room Database
+- **Clasificación en tiempo real** con TensorFlow Lite (MobileNetV2 + cuantización INT8)
+- **Inferencia 100% offline** - ideal para zonas rurales sin conectividad
+- **Preprocesamiento consistente** (letterbox con padding RGB 113,123,96)
+- **Monitoreo de rendimiento** - tiempo de carga, inferencia y uso de RAM
+- **Interfaz moderna** con Jetpack Compose y Material Design 3
+- **Captura de imágenes** con CameraX
+- **Historial local** con Room Database
 
 ## 🌐 Conecta conmigo
 
